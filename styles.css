@@ -1,2 +1,7 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */button#newton-modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
